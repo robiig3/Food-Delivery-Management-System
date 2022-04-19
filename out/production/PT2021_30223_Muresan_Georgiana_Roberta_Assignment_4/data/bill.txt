@@ -1,0 +1,13 @@
+----- BILL -----
+> Client username: roberta
+
+> PRODUCTS: 
+Amaretto Mimosa 
+Nuoc Cham Dipping Sauce 
+Almond Aioli  | Anchoiade  | Pasta with Clams  | Zombie II  | 
+
+> Total price : 351
+
+> Date: 2021-06-02T15:26:06.014480
+
+    have a nice day! :) 
